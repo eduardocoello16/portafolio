@@ -1,5 +1,5 @@
 <template>
-  <Tutorial/>
+<h1>dsadas</h1>
 </template>
 
 <script lang="ts">
